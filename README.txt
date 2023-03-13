@@ -1,5 +1,3 @@
-"# gold-challenge-binar" 
-
 README
 
 * untuk mengaktifkan swagger ketikan di cmd
